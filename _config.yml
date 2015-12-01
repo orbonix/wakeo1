@@ -1,0 +1,62 @@
+# Site wide configuration
+
+title:            Wake Up Naveen
+locale:           en_US
+url:              http://wakeupnaveen.com 
+description:      An attempt to wake our chief minister Naveen Patnaik up from his deep slumber.
+
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+
+#lsi: true
+default_asides: [_related.html]
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+
+# Site owner
+owner:
+  name: Pradeep Majhi
+  avatar: pradeep_prof.jpg
+  bio: "Soldier of people daring to challenge the inabilities of a corrupt,ineffective and dull individual who is our Chief Minister.Naveen Patnaik sucks big time."
+  email: iycpradeep@gmail.com
+  disccus-shortname: wakeupnaveencom
+  facebook-appid: 191465971189480 
+  twitter: iycpradeep
+  facebook: mppradeepmajhi
+  google:
+    plus: #username
+    analytics: 
+    verify: 
+    ad-client: ca-pub-6312991114432062 
+    ad-slot: 6852090037
+  bing-verify: 
+  github: #username
+  stackoverflow: #http://stackoverflow.com/users/123456/username
+  linkedin: #username
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
