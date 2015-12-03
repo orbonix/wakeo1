@@ -8,6 +8,7 @@ image:
   feature: null
 date: 2015-12-02T03:40:27+05:30
 published: true
+comments: true
 ---
 
 Have you ever wondered be in Kalinganagar, Maikanch , Kalimela or Kalarapat under Naveen sarkar its always the Adivasi who takes the government's bullet on heart. #wakeupnaveen
