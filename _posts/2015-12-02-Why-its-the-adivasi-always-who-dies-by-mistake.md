@@ -12,6 +12,5 @@ published: true
 
 Have you ever wondered be in Kalinganagar, Maikanch , Kalimela or Kalarapat under Naveen sarkar its always the Adivasi who takes the government's bullet on heart. #wakeupnaveen
 It may be little hard to read but please try and read this.
-</br>
 ![Naveen Killed Adivasi]({{site.baseurl}}/images/bhawanipatna.gif)
 
