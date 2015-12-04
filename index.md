@@ -5,4 +5,5 @@ tags: [Pradeep Majhi, Odisha, Naveen Patnaik, naveen patnaik, parliament, rahul 
 image:
   feature: pradeep-prof.jpg
   credit: Pradeep Majhi
+comments: true
 ---
