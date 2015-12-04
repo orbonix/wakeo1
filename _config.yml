@@ -57,6 +57,19 @@ owner:
   soundcloud: #username
   weibo: #username
   flickr: #username
+twitter:
+  username: iycpradeep
+  tweet_count: true
+  size: normal
+  follow_count: false
+  tweet_message:       ":title by :username - :url"
 
+facebook:
+  app_id:   191465971189480              # For a nicer (no js) sharing experience
+  profile_id:                        # For follow button or profile link
+  action:              like          # Or recommend
+  share:               true         # Also add a share button
+  layout:              button        # Choices: standard, box_count, button_count, button
+  show_faces:          true
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
