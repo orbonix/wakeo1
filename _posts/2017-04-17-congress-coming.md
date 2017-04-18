@@ -1,12 +1,12 @@
 ---
 layout: post
-title: ମାମୁ ଘରେ ଗୋଠେ ଗାଈ ରାତି ପହିଲେ ମୋଟେ ନାହିଁ
+title: ଗରିବି ହଟେଇବାରେ କଂଗ୍ରେସ ବିଶ୍ଵ ରେ ଏକ ନମ୍ବର
 modified: null
 categories: null
-excerpt: "Congress in Odisha is still the only potent alternative to Naveen's misadministration of Odisha, no matter what Modi wants you to believe."
+excerpt: "No other party in the history of world has pulled so many people out of poverty as Congress did under Manmohan Singh and all that due to just one scheme that is MNREGS."
 image:
   feature: null
-date: 2017-04-18T03:40:27+05:30
+date: 2017-04-19T03:40:27+05:30
 published: true
 comments: true
 ---
